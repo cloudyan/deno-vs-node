@@ -40,3 +40,4 @@ Typescript   | 第三方，如通过 ts-node 支持 | 原生支持
 参考：
 
 - https://www.cnblogs.com/coderhf/p/12911812.html
+- https://deno.land/manual
